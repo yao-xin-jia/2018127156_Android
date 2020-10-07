@@ -10,7 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Thirdctivity"></activity>
-        <activity android:name=".SecondActivity" />
+        <activity android:name=".SecondActivity"
+            android:launchMode="singleInstance"/>
         <activity android:name=".FirstActivity"
             android:launchMode="singleTask">
             <intent-filter>
