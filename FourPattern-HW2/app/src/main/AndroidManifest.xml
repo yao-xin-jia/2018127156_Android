@@ -12,7 +12,7 @@
         <activity android:name=".Thirdctivity"></activity>
         <activity android:name=".SecondActivity" />
         <activity android:name=".FirstActivity"
-            android:launchMode="singleTop">
+            android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
