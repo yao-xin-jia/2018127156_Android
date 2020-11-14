@@ -1,0 +1,12 @@
+# 
+
+#  [作业一](https://github.com/yao-xin-jia/2018127156_Android/tree/master/LifeCycle-HW1)
+
+
+
+#  [作业二](https://github.com/yao-xin-jia/2018127156_Android/tree/master/FourPattern-HW2)
+
+
+
+#  [作业三](https://github.com/yao-xin-jia/2018127156_Android/tree/master/RecyclerView)
+
