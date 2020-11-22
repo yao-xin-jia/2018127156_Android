@@ -15,6 +15,12 @@
 
 ## [7. 广播，自定义广播的使用。](https://github.com/yao-xin-jia/2018127156_Android/tree/master/BroadcastTest)
 
+## 8.服务
+
+###  [8.1 子线程的程序框架、消息处理机制、多线程之间的数据交换](https://github.com/yao-xin-jia/2018127156_Android/tree/master/AndroidThreadTest)
+
+###  [8.2 服务、子服务的绑定，子服务运行在异步任务](https://github.com/yao-xin-jia/2018127156_Android/tree/master/ServiceTest) 
+
 
 
 
